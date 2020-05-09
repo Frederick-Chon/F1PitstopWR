@@ -1,10 +1,10 @@
 # Formula1 Pitstop World Record
 
-Video of RedBull Racing's world record pitstop in 2019. Custom video player built using JavaScript's VideoAPI. Uses DOM manipulation for play/pause controls, progress slider and timestamp updates.
+Custom video player showcasing RedBull Racing's world record pitstop in 2019. Built using JavaScript's VideoAPI. Uses DOM manipulation for play/pause controls, progress slider and timestamp updates.
 
 ## Live Demo
 
-Live version hosted [here]()
+Live version hosted [here](https://frederick-chon.github.io/F1PitstopWR/)
 
 ## Built Using
 
